@@ -1,0 +1,7 @@
+Command exchange done
+Command exchange 2 done
+Command exchange 3 all done
+Command exchange 4 done
+Command exchange done
+Command exchange 3 done
+Command exchange 2 all done
